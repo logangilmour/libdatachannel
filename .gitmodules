@@ -5,7 +5,6 @@
 [submodule "deps/usrsctp"]
 	path = deps/usrsctp
 	url = https://github.com/sctplab/usrsctp.git
-	shallow = true
 [submodule "deps/libjuice"]
 	path = deps/libjuice
 	url = https://github.com/paullouisageneau/libjuice.git
